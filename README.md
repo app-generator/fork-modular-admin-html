@@ -1,5 +1,11 @@
 # ModularAdmin: Free Bootstrap 4 Dashboard Theme <br> HTML version
 
+<br />
+
+> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-dashboard-modular-admin). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+
+<br />
+
 [![Backers on Open Collective](https://opencollective.com/modular-admin/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/modular-admin/sponsors/badge.svg)](#sponsors) [![Join the chat at https://gitter.im/modularcode/modular-admin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/modularcode/modular-admin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![demo](http://modularcode.github.io/modular-admin-html/assets/demo.png)](http://modularcode.github.io/modular-admin-html/)
